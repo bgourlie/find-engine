@@ -1,0 +1,12 @@
+name: find_engine
+version: 0.1.0
+description: An abstraction for finding things.
+author: W. Brian Gourlie
+
+dependencies:
+  quiver: "^0.21.4"
+  logging: "^0.11.1"
+
+dev_dependencies:
+  test: "^0.12.0"
+  mockito: "^0.10.1"
